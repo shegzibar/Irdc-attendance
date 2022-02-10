@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65484946967",
+    "project_id": "irdc-attendance-203df",
+    "storage_bucket": "irdc-attendance-203df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65484946967:android:f14effc16800e45b3f2652",
+        "android_client_info": {
+          "package_name": "io.irdc_attendance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65484946967-lbb7no2ho21kp6t3kq4jefav5hvfnl7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjUccCfsj01_nhVtba1XjducL7CR8qog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65484946967-lbb7no2ho21kp6t3kq4jefav5hvfnl7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
